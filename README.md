@@ -12,6 +12,10 @@ This Power BI dashboard provides a comprehensive overview of Netflix's content f
 
 ---
 
+## Dataset
+🔗 Full Netflix Dataset – Kaggle
+
+---
 ## 🔍 Key Metrics
 
 | Metric            | Value         |
