@@ -14,6 +14,7 @@ This Power BI dashboard provides a comprehensive overview of Netflix's content f
 
 ## Dataset
 🔗 Full Netflix Dataset – Kaggle
+[https://www.kaggle.com/datasets/octopusteam/full-netflix-dataset?resource=download]
 
 ---
 ## 🔍 Key Metrics
